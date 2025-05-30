@@ -1,7 +1,7 @@
 {
     "name": "echobot",
     "version": "1.0.0",
-    "description": "Bot Builder v4 echo bot sample",
+    "description": "Cosmos DB Demo SDK for Node.js",
     "author": "Microsoft",
     "license": "MIT",
     "main": "index.js",
@@ -29,5 +29,8 @@
         "eslint-plugin-promise": "^4.2.1",
         "eslint-plugin-standard": "^4.0.1",
         "nodemon": "^3.1.10"
+    },
+    "engines": {
+        "node": ">=14.0.0"
     }
 }
